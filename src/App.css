@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+input:focus {
+  outline: none;
+  box-shadow: none;
+  border: none;
+}
+.active-tab {
+  border-bottom: 2px solid black; 
+  font-weight: 500;
+} 
+.custom-cursor {
+  cursor: pointer;
+}
+/* .herosection-banner{
+  background-image: url('/Intern-assignment\src\assets\images\desktopBannerImage.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+} */
